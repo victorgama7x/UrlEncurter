@@ -14,21 +14,21 @@ Tecnologias usadas:
 Como usar:
 
 1. Clone o repositório:
-   git clone https://github.com/victorgama7x/UrlEncurter
-   cd UrlEncurter
+     git clone https://github.com/victorgama7x/UrlEncurter
+     cd UrlEncurter
 
 3. Instale as dependências:
-   npm install
+     npm install
 
 4. Crie o arquivo .env na raiz do projeto com as variáveis necessárias:
-   DATABASE_URL=\"file:./dev.db\"
+     DATABASE_URL=\"file:./dev.db\"
 
 5. Configure o banco de dados com Prisma:
-   npx prisma migrate dev --name init
-   npx prisma generate
+     npx prisma migrate dev --name init
+     npx prisma generate
 
 6. Inicie o servidor:
-   npm run dev
+     npm run dev
 
 Por padrão, o servidor roda em http://localhost:3000
 
