@@ -1,7 +1,6 @@
 # Meu Projeto Node.js com TypeScript, Prisma e SQLite
 
-Este projeto é uma API backend construída usando Node.js e TypeScript, que utiliza o Prisma ORM para gerenciar um banco de dados SQLite. A ideia é criar uma aplicação simples, organizada e fácil de manter, perfeita para quem está começando ou quer uma base para projetos futuros.
-
+Este projeto é uma API backend construída usando Node.js e TypeScript, que utiliza o Prisma ORM para gerenciar um banco de dados SQLite.
 Tecnologias usadas:
 
 - Node.js para o ambiente de execução JavaScript no servidor
