@@ -15,7 +15,7 @@ Tecnologias usadas:
 Como usar:
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/victorgama7x/UrlEncurter
    cd UrlEncurter
 
 2. Instale as dependências:
