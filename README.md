@@ -1,7 +1,5 @@
 # Meu Projeto Node.js com TypeScript, Prisma e SQLite
 
-# UrlEncurter
-
 Este projeto é uma API backend construída usando Node.js e TypeScript, que utiliza o Prisma ORM para gerenciar um banco de dados SQLite.
 
 ## Tecnologias usadas
