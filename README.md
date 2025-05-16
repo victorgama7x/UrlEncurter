@@ -88,9 +88,3 @@ POST /shorten — Encurta uma URL
 GET /:code — Redireciona para a URL original usando o código encurtado
 
 - Exemplo: acessar http://localhost:3000/abc123 irá redirecionar para https://exemplo.com (caso o código exista)
-
-Scripts úteis:
-
-- npm run dev - Roda o servidor com recarga automática usando Fastify
-- npm run build - Compila o TypeScript para JavaScript na pasta dist/
-- npm start - Executa o código compilado em ambiente de produção
